@@ -57,7 +57,7 @@
     }
   },
   "flex-layout.col": {
-    "childre": [
+    "children": [
       "image#electronics",
       "image#major-appliance"
     ]
