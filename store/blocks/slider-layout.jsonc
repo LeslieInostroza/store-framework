@@ -6,7 +6,8 @@
       "image#brand3",
       "image#brand4",
       "image#brand5",
-      "image#brand6"
+      "image#brand6",
+      "image#brand7"
     ],
     "props": {
       "autoplay": {
